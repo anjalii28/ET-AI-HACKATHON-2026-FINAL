@@ -1,0 +1,38 @@
+.unified-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.unified-header {
+  background: #0f172a; /* Black background matching sidebar */
+  border-bottom: 1px solid #1e293b; /* Dark border */
+  padding: 1.25rem 2rem;
+  flex-shrink: 0;
+  width: 100%;
+}
+
+.unified-header .header-title h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ffffff; /* White text */
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.unified-body {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+}
+
+.unified-main {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}

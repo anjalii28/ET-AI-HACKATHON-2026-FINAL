@@ -1,0 +1,39 @@
+.unified-sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  background: #0f172a; /* Black background matching Chatwoot/Twenty */
+  border-right: 1px solid #1e293b; /* Dark border */
+  padding: 1rem 0;
+}
+
+.sidebar-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-nav-list li {
+  margin: 0;
+}
+
+.sidebar-nav-link {
+  display: block;
+  padding: 0.65rem 1.25rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: #cbd5e1; /* Light gray text for dark background */
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  border-left: 3px solid transparent;
+}
+
+.sidebar-nav-link:hover {
+  background: #1e293b; /* Dark gray on hover */
+  color: #f1f5f9; /* Lighter text on hover */
+}
+
+.sidebar-nav-link.active {
+  background: #1e293b; /* Dark gray for active state */
+  color: #f1f5f9; /* Light text for active */
+  border-left-color: #475569; /* Gray border for active */
+}

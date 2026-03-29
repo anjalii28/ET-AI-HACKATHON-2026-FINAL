@@ -1,0 +1,41 @@
+/Design
+/.vscode__pycache__/
+*.pyc
+selected_audio_samples/
+# Node
+node_modules/
+# Build
+dist/
+build/
+.vite/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+output/
+audio/
+used audio/
+
+node_modules/
+dashboard/node_modules/
+# Node / frontend
+dashboard/node_modules/
+dashboard/package-lock.json
+
+# Generated / runtime data
+dashboard/public/data/
+node_modules/
+.env
+.env.*
+chatwoot/
+.env
+.env.*
+
+# Local / generated (hackathon tooling)
+logs/
+reviews_output/
+reviews-service/storage/
+reviews-service/scrape-debug.png

@@ -1,0 +1,302 @@
+
+> reviews-service@1.0.0 serpapi:google-maps-reviews
+> ts-node -r tsconfig-paths/register src/scripts/serpapi-google-maps-reviews.ts 0x3bae3d6b8e17c907:0x5c6d10b34999d043
+
+{
+  "data_id": "0x3bae3d6b8e17c907:0x5c6d10b34999d043",
+  "requested_min_reviews": 30,
+  "total_reviews_extracted": 48,
+  "all_reviews_source_google": true,
+  "all_reviews_have_author_and_text": true,
+  "api_limitations": [],
+  "reviews": [
+    {
+      "author_name": "Umesh Biradar",
+      "rating": 1,
+      "review_text": "Be aware of the unreasonably expensive charges at this hospital.  35,000 for a regular dental cleaning (27,000) and 3 fillings is steep(2500 each).  This included laser assisted cleaning.  The entire procedure was little over 75 minutes.\n\nThe cost compares to about 8,000-11,000 quoted at another facility nearby. Borderline fraud. Unfortunately, I got to compare costs after the procedure.\n\nQuality of the procedure itself was decent.  No complaints or complications. Just that corporate greed seems to have taken over substantially.\n\nAsk before you commit; shop around and compare costs with other facilities.",
+      "review_time": "2026-01-14T08:40:32Z"
+    },
+    {
+      "author_name": "LAKSHMI SUBRAMONIAN",
+      "rating": 1,
+      "review_text": "We had a very bad experience here. My mother was asked to take an ultrasound scan for abdomen and a Doppler scan for both legs. We had to wait for more than 2 hours to get our slot. The receptionist initially told it will take 1 hour. So we were prepared for that. The patients who came after her were taken for scan. On enquiry the nurse told that since she had to take two scans it will take some time. For others since it was only abdomen scan it will take less time. So they were finishing for others. My mother was referred for total hip replacement surgery the next week and she had to wait for more than 2 hours for the scan. I would like to remind the management that these issues will be small for you but not for the patients. If you value customer satisfaction please try to correct these kind of behaviour from your staff.",
+      "review_time": "2025-11-13T10:01:39Z"
+    },
+    {
+      "author_name": "C.Mahesh Reddy",
+      "rating": 1,
+      "review_text": "The health check-up process here is extremely disappointing. There is a minimum wait time of two hours at every testing section. I personally had to wait almost three hours for the ultrasound, and as a result, the entire day was spent in the hospital for what is supposed to be a routine health check-up.\nIf the hospital is unable to handle the patient load, it should not accept so many appointments. The overall process reflects very poor planning and management.\nThe 4.7 online rating is misleading. There are two staff members actively asking patients for reviews even before the tests begin, likely because they are aware that feedback after completion would not be favorable. These resources would be better utilized in core operational roles to help reduce the excessive waiting times.\nWaiting two hours for every section is unacceptable, and to make matters worse, registration alone took 45 minutes. I also attempted to provide feedback on the spot but could not find any responsible person available. The feedback contact shared (Santosh) was unreachable, and there was no customer survey manager at the reception, despite being told that someone named Pooja would be available.\nOverall, this was a highly frustrating and disappointing experience. Poor execution, lack of accountability, and inefficient processes made this visit a complete waste of time. Frankly, government hospitals seem far better managed in comparison.",
+      "review_time": "2025-12-25T03:23:29Z"
+    },
+    {
+      "author_name": "Anushree DA",
+      "rating": 1,
+      "review_text": "I had a lot of faith in this hospital,,but remarks after consulting, I realized that this is a money-grubbing hospital,,my father took treatment,But the doctor did not come and examine the patient ,only Nurses are just the ones who come and give treatment., just  for 3 days 2 lakh bill has been made,,We took him to the hospital in the hope of getting him well, but we just gave  2 lakhs to the hospital and he didn't even get better.Only 2 bottles of blood were given.And some tests, they put a bill for that, nd We were shocked.And they behaved very negligently, when we called and said that they had not given any treatment, the nurses came and put NS fluid and left.Since we had taken insurance under treatment, it was 11:30pm at night when we were discharged, so at that time we had to pay the remaining bill and leave immediately, otherwise we would have to pay one day's ward rent. Since we had to travel 40kms, we requested that we go in the morning but they did not agree. Then the pharmacy said that they would not discharge anyone at this time. How did they do it?So before going to the hospital, please know this first'",
+      "review_time": "2026-01-09T14:47:20Z"
+    },
+    {
+      "author_name": "Sowmya G",
+      "rating": 1,
+      "review_text": "Really night mare experience on Heath check up. The Queue system and crowd management is vast and no one takes responsibility. Govt hospital is better. After spending huge amount no basic services and no respect. In experienced and poor management",
+      "review_time": "2026-01-31T06:07:46Z"
+    },
+    {
+      "author_name": "Rajmsw Kk",
+      "rating": 1,
+      "review_text": "Very bad experience. No response from the emergency helpline for nearly 20 minutes. When they responded, the behavior was negligent. Even in the emergency ward, the patient was not taken care of properly. During the night shift, one staff member handled both billing and admission, causing nearly a 2-hour delay. Extremely poor emergency management and unacceptable service.",
+      "review_time": "2025-12-16T06:29:35Z"
+    },
+    {
+      "author_name": "MADHU KUMAR",
+      "rating": 1,
+      "review_text": "\"I want to warn everyone about one of the costliest hospitals in Bangalore. My family and I had a terrible experience there.\n\nWhile our patient was admitted, the hospital team tormented us day after day for payments. The room rents were excessively high and provided no value for the amount we paid. Most distressingly, when the patient was in a critical, near-death condition, the entire team acted unprofessionally. They seemed to be prolonging the situation just to extract more money from us, the patient's family.\n\nTragically, we recently lost my beloved brother in this very hospital.\n\nI am requesting you all to please be very careful. Do your research and think twice before choosing this hospital.\"",
+      "review_time": "2025-12-13T05:02:25Z"
+    },
+    {
+      "author_name": "Gokul Krishna",
+      "rating": 1,
+      "review_text": "I admitted my wife at Sparsh Hospital, Yeshwanthpur for just one day due to acute gastroenteritis with dehydration (a basic illness). The hospital shocked us with a gross bill of ₹60,535, gave an “MOU discount” of ₹8,298, and finally charged ₹52,857 net.\n\nThis included:\n•\t₹12,500 for private room\n•\t₹22,000+ for basic blood tests which are normally inexpensive\n•\t₹300 per day parking charge outsourced to a private vendor\n\nFor a simple one-day illness, this bill is unbelievable and unjustifiable.\n\nWhile insurance covered most of it, I wonder how middle-class and poor families can ever afford this kind of treatment. Hospitals should heal patients, not exploit them with inflated bills and hidden charges.\n\nIf there was an option for negative rating, I would have definitely given it.",
+      "review_time": "2025-09-16T04:07:44Z"
+    },
+    {
+      "author_name": "Deepika B",
+      "rating": 1,
+      "review_text": "Worst place to be in.all the staff are trained to be money minded they only ask for your insurance amount each and every time.specially the insurance department is the worst place.they ill treat ppl and worst is they fool patient family and try to make as much as they can and delay the procedure.\nNight duty nurses are less and they ask the patient attender to do some things which are suppose to do in night.they try to put the patient in ICU for as many days they can to loot the money and they say nurses can't monitor in ward.\nMy dad was admitted for brain stroke and he was badly treated with tube from nose as they said he can't handle eating from mouth.my dad suffered with sudden bleeding in 2 weeks and we took him to other hospital they removed the tube and he could eat normally later.\n\nI request ppl to think before going to this hospital as they are having sales team to all the clinic doctors who recommend to this hospital and get trapped in emergency 😕",
+      "review_time": "2025-09-22T17:09:02Z"
+    },
+    {
+      "author_name": "Akhilesh Pg",
+      "rating": 1,
+      "review_text": "Had a very bad experience with doctor ishwar amalazari gastroenterologist, He is just looking ways to loot money from the patients, i have a chronic Gastro problem And.I had fever when I met him regarding my issues. He went through all my reports and told me to get blood test done, even though I had blood test report of just 20 days back in the report. As everyone knows blood report won’t be accurate during fever, so I told him I’ll get it done when I am cured from fever. But still, he didn’t write down the gastric tablets when I requested him to give the tablets he indirectly blackmail. My dad saying I’ll write the tablets down, but if anything happens to him, I’m not responsible. My father got scared and got all my the blood test done for around 4000. After the test, he started forcing me to go to pulmonology department for again consultation wit which is 1100 rs more. When I told him, I’ll visit it some other time he got angry. And will giving the tablets he particularly mentioned. I’m only looking for gastric. If you have any other issues, you have to visit someone else. I won’t write down any other tablets for you. If this is the case, why did he force me and indirectly blackmail my dad to get my blood test done? This is a daylight robbery. Sparsh has many good doctors, but I really didn’t expect someone to be money minded like him. Totally disappointed with the experience.",
+      "review_time": "2025-10-01T15:56:40Z"
+    },
+    {
+      "author_name": "Manjunath H",
+      "rating": 1,
+      "review_text": "Unprofessional doctors with useless policies costing thousands of hard earned money. They utilise the situation to seek more money from us. Only recommend if you are insured. I have no doubt why it's emergencies are so empty.",
+      "review_time": "2025-10-12T15:24:20Z"
+    },
+    {
+      "author_name": "Sunil Rodrigues",
+      "rating": 1,
+      "review_text": "Please note, this is the worst hospital,  no quality of staff and service, poorly trained to handle patients specially with maternity ward. We had horrible experience except for the doctor. However doctor and her consultation was good 👍",
+      "review_time": "2025-08-31T15:01:56Z"
+    },
+    {
+      "author_name": "Kiran Ramaiah",
+      "rating": 1,
+      "review_text": "Bad experience with Women and children care sector - Lack of attention and transparency\n\nI strongly urge the hospital to review its processes, improve staff training, and address these gaps to ensure patient safety and comfort.\n\nthe attending doctor insisted that certain services and tests could only be done at your hospital’s facility, discouraging or refusing to accept reports from other accredited centers. This approach felt restrictive and created an impression that patient choice and convenience were being overlooked in favor of in-house services.\n\nHealthcare should prioritize patient well-being, transparency, and freedom of choice",
+      "review_time": "2025-08-13T09:14:33Z"
+    },
+    {
+      "author_name": "Amruthamgowda Amruthamgowda",
+      "rating": 1,
+      "review_text": "Worst hospital, worst doctors and worst nurses very bad only eligible for money not for the patient health 😡 irresponsible and very bad response from the doctors they will take the lots of lakhs meanwhile the patient got death they won’t let anyone to see till days be aware of this in every hospital this situation is going on government should take action on it.",
+      "review_time": "2025-12-11T10:00:57Z"
+    },
+    {
+      "author_name": "Mithun Das",
+      "rating": 1,
+      "review_text": "Very Disappointed with Emergency Care at Sparsh Hospital – 27th August 2025\nI had a terrible experience at Sparsh Hospital yesterday, and I feel compelled to share it. In the early morning hours of 27th August 2025, around 3:00 AM, I was suffering from severe hemorrhoid pain. Despite taking a painkiller, the pain didn’t subside, and I couldn’t sleep—so I visited the emergency section, expecting at least basic compassion and professionalism.\nInstead, I was met with shocking rudeness from the duty doctor. He behaved as if I was disturbing his sleep and spoke to me in a completely unprofessional and disrespectful manner. His exact words were along the lines of, “What do you want? Why have you come here?” – delivered in a harsh and dismissive tone.\nAs a regular visitor to this hospital who has trusted it for my family’s healthcare needs, this behavior was both unacceptable and deeply disappointing. Emergency care should be a place where patients are treated with urgency and respect—not made to feel like a burden for seeking help.\nI sincerely hope the hospital management takes this issue seriously. No patient deserves to be treated like this, especially when they are in pain and vulnerable.",
+      "review_time": "2025-08-27T06:02:01Z"
+    },
+    {
+      "author_name": "PACIFIC PRECAST",
+      "rating": 1,
+      "review_text": "Worst experience they told me to discharge my patient at morning 10 o’clock doctor also told to discharge my patient at morning 10 o’clock but management formality was going upto night 10 o’clock i literally wait for 12 hours due to mismanagement only",
+      "review_time": "2026-01-16T09:32:13Z"
+    },
+    {
+      "author_name": "danish dosani",
+      "rating": 1,
+      "review_text": "I don't even want to give 1 star worst hospital to vistin been there to stomach and they have paracetamol drop literally and asking to ECF for stomach pai and charging 4500 for a drip literary they are looting people and no clarity as well what patient is going through all they care is about money and doctor was very rude treated us like shit I want this to be know by people",
+      "review_time": "2025-10-03T10:02:13Z"
+    },
+    {
+      "author_name": "Mohamed Abdul Rasheed",
+      "rating": 1,
+      "review_text": "Worst Hospital ever visited  by my famil history of travelling abroad for medicals. This hospital was recommended by a friend and went in for a simple dental appointment and requested for Scaling of my daughters teeth. The procedure was not properly explained and the wife already paid for it. i came to know about the price and when i inquired about the price they explained about a different procedure than explained. So i requested for a refund. They refused the full refund by saying they cannot refund the whole amount as it was in cash. They told me that it was not Hospital Policy to give refund Full in cash but they can do a deposit to my international bank via SWIFT which will take 4 to 5 days. I was overwhelmed as i told them as us being International Patients we cannot accept this kind of refund. Long Story short it is my belief that they charged us extra for a procedure that was not required and when we came to know about it they refused to make the REFUND.",
+      "review_time": "2025-07-22T15:14:21Z"
+    },
+    {
+      "author_name": "Mahadev",
+      "rating": 1,
+      "review_text": "Worst experience we will wait 3 hours just for Consultation, and Surgeon not doing well treatment, Careless, why we spent per Consulting 1300 rupees",
+      "review_time": "2025-12-08T14:56:39Z"
+    },
+    {
+      "author_name": "Ramesh ch",
+      "rating": 1,
+      "review_text": "Hospital will delay the diagnosis and treatment and no proper communication to internal department . If doctor recommend to another department doctor they will come after 5 to 6 hours, mean time patient won't get any further treatment .",
+      "review_time": "2025-09-23T14:58:04Z"
+    },
+    {
+      "author_name": "Lalit Mohan",
+      "rating": 1,
+      "review_text": "Never ever go to this hospital. I would give minus star if there was an option. These hospitals are looting money form patients. In my case, just for 10hrs they have charged 1.3lakhs. example: in the bill, they had put 97 gloves just for 10hrs, with this one can imagine the way they are looting money..",
+      "review_time": "2025-09-08T14:31:56Z"
+    },
+    {
+      "author_name": "kshama",
+      "rating": 1,
+      "review_text": "A BIG NO!!!\nI had recommended this hospital for my niece’s treatment solely because my trusted doctor practices here. I have complete faith in his medical judgment and treatment approach.\n\nHowever, the overall billing experience has left me extremely disappointed. We had specifically opted for a triple-sharing room expecting affordability, but were shocked by the final bill—especially the charges listed under ‘laboratory services’. The prices for several tests were 3–4 times higher than those at equally reputed diagnostic centers outside.\n\nWhat was even more disheartening was the complete lack of transparency—there was no prior communication or estimate provided regarding these charges. The final bill came as an unpleasant surprise. It’s disconcerting that even after selecting the most economical room category, the hospital manages to inflate costs through excessive diagnostic pricing.\n\nAt the very least, patients and their families deserve honest and transparent billing practices. When the hospital was new the prices also were very competent. But now it's a rip off. I sincerely urge the hospital management to review this issue and take corrective action.\n\nTo add, I was recently contacted by the hospital to ask whether I would recommend their services. My answer was an emphatic no. My trust remains solely with my Dr Mahesh Pai. Wherever he practices is where I will go in future.",
+      "review_time": "2025-06-08T04:55:19Z"
+    },
+    {
+      "author_name": "mayank dwivedi",
+      "rating": 1,
+      "review_text": "I can’t give less then one start, please don’t come to this hospital it’s worst hospital ever simply looting people’s money they destroyed our child it’s my humble request please don’t visit this hospital Yashwantpur branch it’s not good\n\nEven they don’t know how to put VICO properly\n\n- no one explains anything\n- for cashless they ask for security deposit despite being approved\n- no clarity on the bills\n- you will get crashed by the bills\n- very bad staff starting from reception to billing to nurses you take the name it’s all bad here they primary focus on money",
+      "review_time": "2025-09-03T13:29:32Z"
+    },
+    {
+      "author_name": "Chetna Anjali",
+      "rating": 1,
+      "review_text": "One of the the worst medical experiences of my life was at Sparsh hospital. The doctors at Sparsh are only money minded. They  keep their profits even above the well being of the patients. I was in extreme pain for 3 days yet they kept making me take unnecessary and expensive tests without prescription of proper medication. Going in for a simple issue, I ended up spending thousands of rupees without the correct diagnosis. Their only aim seems to be to keep the patients tangled in a web of tests, injections, just to pump up the final bill. Please do not go here if you have other options. Trust me you will regret it.",
+      "review_time": "2023-05-31T14:45:47Z"
+    },
+    {
+      "author_name": "Nikhil Duddi Ramesh",
+      "rating": 1,
+      "review_text": "Never ever visit here, everyone are cheaters , I took my dad for simple 3 injections and they admitted him stating some complication and charged me 2lakhs for 3 days,,, really worst hospital and money minded staff, I suspect docotor wantedly gave some iron rich tablets and made my dad condition very serious and started to shift him to icu and told he is in life or death condition then we shifted to other hospital and my dad got well just in two days. Please be careful never visit here if u have fear on life",
+      "review_time": "2020-07-20T10:12:51Z"
+    },
+    {
+      "author_name": "arun kumar",
+      "rating": 1,
+      "review_text": "never go to sparsh hospital. the service is very bad. the staffs are ery rude",
+      "review_time": "2025-09-20T08:46:39Z"
+    },
+    {
+      "author_name": "sumathi c",
+      "rating": 1,
+      "review_text": "Doctors will not be available in given appointment timings everytime patients needs to wait minimum 1-2 hours even if there is any emergency.",
+      "review_time": "2025-10-15T05:22:09Z"
+    },
+    {
+      "author_name": "manjunath D",
+      "rating": 1,
+      "review_text": "One of the worst hospital in Bangalore, I lost my father after admitting to this hospital, They will make normal patient serious and put them into ICU bed simply for the sole reason for taking more money, They will charge 80,000rs for ICU and per day it will be 1.5 lakhs bill in which even doctors doesn’t even know what they are giving the treatment, They will put them simply in ICU and they will do some time pass by giving random medicines, before discharging they will definitely make bill amount to 20 lakhs, Once anyone admitted in this hospital in ICU make sure they don’t come back live again, They do not give proper medicines, All they want is Money, Money, Money…That’s it there is no humanity at all in them. Please think twice before visiting this hospital especially if patient is serious, They will take all your money and make you debt..",
+      "review_time": "2025-05-17T06:36:55Z"
+    },
+    {
+      "author_name": "Mehran Shifa",
+      "rating": 1,
+      "review_text": "Worst hospital ever seen they doesn't give treatment for the patient if the billing is pending they give priority for the money rather than the patient's life I highly recommend to think twice before visiting this hospital",
+      "review_time": "2025-08-14T10:54:39Z"
+    },
+    {
+      "author_name": "Vaishnavi M V",
+      "rating": 1,
+      "review_text": "Vile management, one of our relatives was admitted for vomitting . She is already around 70 years of age and has hearing problem whole life and is diabetic. Instead of administring relevant treatment all kinds of irrelevant test done and irrelevant consultations done . Wasn't released from ICU even though the patient was doing fine was supposed to be shifted to ward. Making problems writing not required information for insurance claiming . Making hell for the attendant and the patient . Making so much delay for discharge even though patient was doing well . All required test before discharge could have been completed within 3 hours prolonged throughout the whole day . Discharge postponed to next day . Hope all the people who have experienced such difficulty at this hospital also speak up .",
+      "review_time": "2025-05-30T11:16:40Z"
+    },
+    {
+      "author_name": "Shreya J",
+      "rating": 1,
+      "review_text": "One of the worst hospital I have seen\nThis hospital is only for big and rich people. They will delay for everything\nThe faculty members are very careless.Even though the patient is alright they will not lev us,Theyll delay\nPls don't consult this Hospital\nVery disappointed",
+      "review_time": "2025-07-26T15:43:57Z"
+    },
+    {
+      "author_name": "Devanand P (Devan)",
+      "rating": 1,
+      "review_text": "Worst experience today at Sparsh Hospital for my wife's Health Check.\n\nThe lack of coordination and urgency from the hospital's diagnostic department makes me question their reliability.\n\nI am extremely disappointed with the handling of recent blood test at their lab. Her fasting sample was collected at 10:00 AM, and PPBS sample was taken at 12:00 PM. However, to my surprise, we received both reports at 12:00 PM itself, which is impossible if proper processing and testing protocols were followed.\n\nI hope they take immediate steps to improve their services and patient care. Until then, I cannot recommend this hospital for diagnostic services.",
+      "review_time": "2025-03-28T08:57:35Z"
+    },
+    {
+      "author_name": "Wisvesh B.S.",
+      "rating": 1,
+      "review_text": "Would like to give 0 of Google had that option. Nonsensical layout for the hospital. Was given an appointment for 10 for GI endoscopy. Was not informed prior that an RT-PCR test was required. Was Charged INR 700 for the same. No one was available at the department of GI, hepatology & nutrition at 10. Took an hour for the tests for the rest to be done. Having been on a an empty stomach, wanted to get access to a coffee shop that they claim they have. Do not have access to a coffee shop through the routes mentioned as per the sign boards. Was guided by a security incorrectly to access the coffee shop through the start entry. Staff Rukmini at the basement the staff entry to the coffee shop was really rude and non - apologetic for her behavior. Reception did not enquire about the issue when I raised the complaint to them. Administration services seriously require a revamp given the charges levied.",
+      "review_time": "2021-01-13T05:35:33Z"
+    },
+    {
+      "author_name": "Sowmya M",
+      "rating": 1,
+      "review_text": "Had been here for general body check up and i must say the process and facilities are the worst. There is no co-ordination and you have to wait everywhere for every test endlessly. There is just one counter for blood collection and similar situation in all cases.",
+      "review_time": "2025-07-28T06:28:34Z"
+    },
+    {
+      "author_name": "Sunil siddu",
+      "rating": 1,
+      "review_text": "I am first time coming at ur hospital in ur hospital navya general word worker her behaviour is too bad and she make angry with all  patients and  she don't care about patients also and that one gril manasa she is good",
+      "review_time": "2025-07-19T04:29:31Z"
+    },
+    {
+      "author_name": "Shiva kumar M.R",
+      "rating": 1,
+      "review_text": "Don't ever go to this hospital. If you want to live your life, never ever visit this hospital.\n\nI lost my mother after admitting her to this hospital. I regret choosing this hopital for her treatment.\nThe reasons are ;-\n-Not at all value for life\n-Cost is very expensive from ICU to parking charges.\n-Only junior doctors are available with 0% knowledge and experience.\n-They just do time- pass and play with our emotions and life.\n\nVery worst hospital I have ever seen. Giving 1 star is also too much as it does not deserve it.",
+      "review_time": "2025-01-20T18:46:58Z"
+    },
+    {
+      "author_name": "sanjana s",
+      "rating": 1,
+      "review_text": "Money minded hospital...for every visit doctor charges 1000 rupees even if it's follow up.\nDoctors make us to wait for a long time especially if they go for lunch.",
+      "review_time": "2025-10-12T16:37:47Z"
+    },
+    {
+      "author_name": "Kashinath BN",
+      "rating": 1,
+      "review_text": "Very poor coordinating and they take lots of time to update the report and lab people are very irresponsible",
+      "review_time": "2025-10-11T05:47:30Z"
+    },
+    {
+      "author_name": "vinay kumar",
+      "rating": 1,
+      "review_text": "Delay, delay and only delay. Worst experience with only wait time in each and every step. From shifting to the ward to scans , getting the reports, replying to insurance query requested by the insurance company. This has been the worst experience. Accountability is missing in every department. There is no co-ordination between any of the departments. It's really a nightmare at this hospital!!!",
+      "review_time": "2025-01-21T12:12:58Z"
+    },
+    {
+      "author_name": "Maheboob Nalwari",
+      "rating": 1,
+      "review_text": "Bad experience security guards behaviour not good most expensive hospital",
+      "review_time": "2025-11-09T07:34:52Z"
+    },
+    {
+      "author_name": "Chiranjeev Sidhartha",
+      "rating": 1,
+      "review_text": "The hospital is running a scam. They promise you appointment on phone but doctor is never there. It happened twice with me after booking an appointment. They are not at all professional and dont care about patients. It is like a office with only printers , receptions and no doctors. Plz visit manipal etc and not here for check.ups",
+      "review_time": "2025-06-16T13:13:36Z"
+    },
+    {
+      "author_name": "Prajwal K M",
+      "rating": 1,
+      "review_text": "We would have saved our grand mother if she had got the proper and correct treatment. She was not diagnosed properly. We did a blunder by coming to this hospital. This hospital has caused us more pain than we could ever imagine, and I would never wish this experience on anyone. Stay far away from Sparsh Hospital Yeshwantpur if you love your family.",
+      "review_time": "2025-01-21T18:22:08Z"
+    },
+    {
+      "author_name": "Deepak Krishna",
+      "rating": 1,
+      "review_text": "This hospital has the worst lab facilities and most rude receptionists in Bengaluru. The lab staff are very unprofessional and don’t follow basic hygiene protocols. They conduct tests on soiled bed spreads and argue it is clean if we enquire about it. The machines are old, rusty and do not provide accurate results, particularly MRI.",
+      "review_time": "2025-01-31T10:14:17Z"
+    },
+    {
+      "author_name": "V C",
+      "rating": 1,
+      "review_text": "Hospital officials admit the patient and put them under 24 hours observation. You’ll have to buy medicines now for the patient from the hospital owned pharmacy. While discharge hospital officials give you a huge bill in your hand and also ask you to purchase medicine from the same pharmacy. Admission fee+ Medicines+discharge Fee. In the end they’ll not reveal what is the problem and simply discharge the patient after paying huge fee. I do not recommend this Bullshido hospital to anyone.",
+      "review_time": "2024-09-27T06:54:17Z"
+    },
+    {
+      "author_name": "Sakshi V",
+      "rating": 1,
+      "review_text": "Hospitality is not good.\nMy brother admitted to sparsh hospital. they made us to wait for half an hour to provide basic necessities after admitting. 4th floor is not clean.",
+      "review_time": "2025-04-24T05:49:46Z"
+    },
+    {
+      "author_name": "Shilpa s",
+      "rating": 1,
+      "review_text": "I wanted to share my experience at Sparsh Hospital, Yeshwanthpur, which has been deeply traumatic for me and my family.\n\nIn April 2022, I had a C-section at this hospital, and unfortunately, the entire process was filled with stress, confusion, and a lack of compassionate care.\n\nI was called in for a routine check-up just a few days after my previous one, only to be suddenly asked to get admitted. With little time to prepare, we rushed home to pick up a few essentials and returned to the hospital. Later that evening, I was taken to the labor room, where a doctor was asked to break my amniotic sac. The pain was unbearable, and I immediately felt that something was not right. Shortly after, I was told there was a complication and was rushed for an emergency C-section.\n\nDuring the surgery, I was conscious and could hear everything. To make things even worse, the doctor who had broken my amniotic sac felt giddy and left the OT to rest, an incident my family witnessed, adding to their panic.\n\nAfter delivering a healthy baby girl, she was only shown to me from a distance and immediately taken away. My family was not allowed to hold her, and she was kept in the NICU overnight without explanation. The hospital cited breathing issues, but what remains unclear is why skin-to-skin contact was denied, even though it is medically proven to regulate a baby’s temperature, breathing, and heart rate, while also reducing stress for both mother and child.\n\nDespite the fact that I was producing breast milk, my baby was fed formula milk in the NICU, leading to latching issues. The hospital provided no support for breastfeeding, and I had to seek help from a lactation consultant later on.\n\nThis entire experience left us traumatized, to the extent that a family who once wanted two children decided against having more. Even today, not a single day passes without me reliving the trauma—it remains as fresh as the day it happened.\n\nI cannot help but wonder: Was this an unnecessary C-section? Was there an intentional preference for formula over breastfeeding? Or was it simply a lack of care for the well-being of mothers and babies?\n\nI truly hope the hospital re-evaluates its practices to ensure no other mother or family has to go through such an ordeal. Childbirth should be a joyous experience, not one filled with confusion, distress, and unanswered questions.",
+      "review_time": "2025-02-10T14:36:37Z"
+    },
+    {
+      "author_name": "Orthodoc",
+      "rating": 1,
+      "review_text": "Beware!!!!!!These guys do all unnecessary investigations and make sure u pay hefty price before the patient gets discharged... And charge for the services which they dont even do like physiotherapy charges in icu, dietician charges etc etc...Never recommend any to this hospital...",
+      "review_time": "2025-06-18T17:47:01Z"
+    },
+    {
+      "author_name": "Bhumika Jain",
+      "rating": 1,
+      "review_text": "Wish I could write about the most horrible experience ever .\nWe booked an appointment but had to wait for over 20 minutes, there was no one to even provide us a file for the receipts.\n\nThe management is horrible, the doctors are focused on how to get u to admit yourself instead of actually treating you better and just a very disappointing experience .\n\nHigh instances when you lose faith in humanity as these monsters feed on your vulnerable moments.",
+      "review_time": "2024-10-17T12:26:07Z"
+    }
+  ]
+}
